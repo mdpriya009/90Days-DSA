@@ -1,4 +1,6 @@
 # 90Days-DSA
+
+30 Days DSA
 DAY 1&2 - learn about space and time complexity i.e about the complexity of the code your writing.
 
 DAY3 to 10 - learn abot recursions and backtracking
